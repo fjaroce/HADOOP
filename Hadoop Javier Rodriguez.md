@@ -1,6 +1,6 @@
 # PRÁCTICA HADOOP MOVIEBUSTER
 
-El presente documento es una memoria explicativa que contiene la solución a los diferentes ejercicios de la práctica
+El presente documento es una memoria explicativa que contiene la solución a los diferentes ejercicios de la práctica.
 
 ### 1. Parte práctica
 
